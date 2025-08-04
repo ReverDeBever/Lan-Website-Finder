@@ -19,5 +19,6 @@ This is a Python tool that scans your local network ( for example: `192.168.2.x`
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/websniff.git
-cd websniff
+git clone https://github.com/ReverDeBever/Lan-Website-Finder
+.git
+cd Lan-Website-Finder
