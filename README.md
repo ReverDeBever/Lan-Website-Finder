@@ -14,6 +14,7 @@ This is a Python tool that scans your local network ( for example: `192.168.2.x`
 
 ---
 
-Uses request library
+Uses request library and requires python 3.6 or higher. 
 ```bash
 pip install requests
+
