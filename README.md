@@ -13,3 +13,7 @@ This is a Python tool that scans your local network ( for example: `192.168.2.x`
 - Quickly discover reachable admin panels or UI endpoints
 
 ---
+
+Uses request library
+```bash
+pip install requests
