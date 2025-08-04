@@ -1,5 +1,5 @@
 import requests # Web requests
-import webbrowser # O urls in browser
+import webbrowser # Open urls in browser
 from concurrent.futures import ThreadPoolExecutor # Parallel execution for faster scanning
 
 # Variables
