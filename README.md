@@ -14,7 +14,7 @@ This is a Python tool that scans your local network ( for example: `192.168.2.x`
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### 1. Clone the repository
 
